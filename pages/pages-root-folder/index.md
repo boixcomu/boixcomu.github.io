@@ -7,6 +7,7 @@
 layout: frontpage
 header:
   image_fullwidth: trencadis-parc-guell.jpg
+  caption: Raimond Klavins
 widget1:
   title: "Blog & Portfolio"
   url: 'http://boixcomu.github.io/blog/'
