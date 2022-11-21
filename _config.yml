@@ -49,6 +49,7 @@ plugins:
     - jekyll-asciidoc
     - jekyll-gist
     - jekyll-paginate
+    - jekyll-polyglot
 
 
 #       ____              _             __  _
@@ -80,8 +81,11 @@ exclude:
 
 
 # The language setting is used in /includes/header.html for html-settings
-language: 'en'
-
+#language: 'en'
+languages: ["en", "de", "cat"]
+default_lang: "en"
+exclude_from_localization: ["javascript", "images", "css", "public"]
+parallel_localization: true
 
 # Used › default.html front-matter and compress.html
 # Options › http://jch.penibelst.de
@@ -175,7 +179,9 @@ msapplication_tilecolor              : '#fabb00'
 #      / ____/___ _________  / /_  ____  ____  / /__
 #     / /_  / __ `/ ___/ _ \/ __ \/ __ \/ __ \/ //_/
 #    / __/ / /_/ / /__/  __/ /_/ / /_/ / /_/ / ,<
-#   /_/    \__,_/\___/\___/_.___/\____/\____/_/|_|      Facebook-Optimization › http://j.mp/fb_optimize
+#   /_/    \__,_/\___/\___/_.___/\____/\____/_/|_|      
+#
+#Facebook-Optimization › http://j.mp/fb_optimize
 
 # og_image                             : 'http://images.phlow.de/phlow/phlow_de-logo-512x.png'
 # og_locale                            : 'en_EN'
