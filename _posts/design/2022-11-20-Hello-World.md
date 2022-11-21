@@ -27,8 +27,9 @@ I still don't know which will be the structure of the site, or if there will be.
 
 To create the site I adapted the [Feeling Responsible][1] theme and by now not all the links are changed. So be nice with me, the site is still in alpha version. I expect to work on it soon.
 
-See you in the next post
-Here you have the expected hello world 
+See you in the next post.
+
+Here you have the expected hello world.
 
 ~~~~cpp
 #include <iostream>
