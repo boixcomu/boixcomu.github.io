@@ -1,7 +1,7 @@
 - name: GitHub
   url: http://github.com/eduardagbo
   class: icon-github
-  title: Code und mehr...
+  title: "Repository"
 
 # - name: YouTube
 #   url: http://www.youtube.com/PhlowMedia
@@ -11,8 +11,12 @@
 - name: Twitter
   url: http://twitter.com/boixcomu
   class: icon-twitter
-  title: "Immer das Neuste von Phlow gibt es auf Twitter"
+  title: "Twitter"
 
+- name: Mastodon
+  url: https://mastodont.cat/@boixcomu
+  class: icon-mastodon
+  title: "Mastodon"
 # - name: Mixcloud
 #   url: http://www.mixcloud.com/phlow/
 #   class: icon-cloud
