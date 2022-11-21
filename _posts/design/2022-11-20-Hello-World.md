@@ -5,12 +5,17 @@ title:  "Hello World"
 teaser: "First entry of the may to be a blog to explain to myself what am I doing."
 meta_teaser: "First entry of the may to be a blog to explain to myself what am I doing."
 breadcrumb: true
+categories:
+    - blog
 tags:
     - Hello World
-image:
-    title: trencadis-parc-guell.jpg
-    caption: Raimond Klavins
-    #caption_url: http://unsplash.com
+header:
+    image:
+        image_fullwidth: True
+        background-color: "#fabb00"   # You must use ""
+        title: trencadis-parc-guell.jpg
+        caption: Raimond Klavins
+        #caption_url: http://unsplash.com
 author: eduard
 show_meta: true
 ---
