@@ -7,6 +7,6 @@ teaser              : "This step-by-step guide helps you to customize Feeling Re
 header:
    image_fullwidth  : "header_homepage_13.jpg"
 permalink           : "/about/"
-lang: cat
+lang: ca
 ---
 Hola que ase

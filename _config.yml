@@ -82,7 +82,7 @@ exclude:
 
 # The language setting is used in /includes/header.html for html-settings
 #language: 'en'
-languages: ["en", "de", "cat"]
+languages: ["en", "de", "ca"]
 default_lang: "en"
 exclude_from_localization: ["javascript", "images", "css", "public"]
 parallel_localization: true
