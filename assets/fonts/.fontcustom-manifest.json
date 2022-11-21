@@ -206,6 +206,10 @@
       "codepoint": 61741,
       "source": "svg-files-for-custom-font/twitter.svg"
     },
+    "mastodon": {
+      "codepoint": 61751,
+      "source": "svg-files-for-custom-font/mastodon.svg"
+    },
     "upload-to-cloud": {
       "codepoint": 61742,
       "source": "svg-files-for-custom-font/upload-to-cloud.svg"
